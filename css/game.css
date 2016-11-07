@@ -9,7 +9,8 @@
 .actor  	   { position: absolute;  }
 .player 	   { background: rgb(255, 255, 255); }
 .coin 		   { background: rgb(127, 255, 0);	 }
-.platform	   { background: rgb(255, 255, 255); }
+.buddy	       { background: rgb(255, 255, 255); }
+.telepad	   { background: rgb(93 ,  0 , 255);  }
 
 .game {
   overflow: hidden;
